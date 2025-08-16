@@ -14,17 +14,6 @@ It is designed to convert audio into accurate text without relying on third-part
 - Supports custom datasets
 - Lightweight and extensible for research/production use
 
----
-
-## 📂 Project Structure
-WaveListen/
-│-- data/ # Dataset will be stored here after download
-│-- models/ # Saved models
-│-- notebooks/ # Jupyter notebooks for experiments
-│-- src/ # Source code for preprocessing, training, inference
-│-- requirements.txt # Dependencies
-│-- README.md # Project documentation
-
 
 ---
 
